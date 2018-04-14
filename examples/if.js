@@ -12,8 +12,6 @@ const nameElement1 = <div>{cond ? 'David' : 'Ivan'}</div>;
 
 //--------------------------------------//
 
-'use strict';
-
 var name;
 var cond = true;
 if (cond) {
